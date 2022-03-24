@@ -13,3 +13,5 @@ def resta(a,b):
     # creare otra rama
 p = resta(x,y)
 print('La resta es: ',p)
+
+## agregamos comentarios sin valor
