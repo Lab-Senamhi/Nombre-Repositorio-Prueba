@@ -1,3 +1,5 @@
+import numpy as np
+
 def suma(a,b):
     return a+b
 x = int(input('Ingrese el primer numero: '))
@@ -8,3 +10,11 @@ def mul(a,b):
     return a*b
 w = mul(x,y)
 print('El producto es: ',w)
+# creare un commit de matplotlib.plot
+
+##Solo agrefo comentarios para el branch adicional
+def cuadrado(a,b):
+    return a**b
+
+w1 = cuadrado(x,y)
+print('El cuadrado es: ',w1)

@@ -10,3 +10,8 @@ w = mul(x,y)
 print('El producto es: ',w)
 def resta(a,b):
     return b-a
+    # creare otra rama
+p = resta(x,y)
+print('La resta es: ',p)
+
+## agregamos comentarios sin valor

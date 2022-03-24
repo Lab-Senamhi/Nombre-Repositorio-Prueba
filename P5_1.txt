@@ -9,5 +9,12 @@ vamos en P5_1 .... 1,2
 
 hooooola 12345
 
+<<<<<<< HEAD
 ...uwwwwwwww.....
 este es un commit despues de creada y comiteada la rama adicional
+=======
+Estoy en la rama adicional, veamos que cambios de pueden hacer
+
+........En la rama adicional hare otro commit......
+   12345
+>>>>>>> adicional
