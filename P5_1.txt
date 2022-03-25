@@ -18,3 +18,4 @@ Estoy en la rama adicional, veamos que cambios de pueden hacer
 ........En la rama adicional hare otro commit......
    12345
 >>>>>>> adicional
+12334 github12345
